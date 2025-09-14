@@ -5,7 +5,7 @@ A collection of data analysis projects demonstrating skills in sourcing, transfo
 ## Projects
 
 ### Medical Costs Analytics
-Analysis of healthcare cost factors and patterns to identify key drivers of medical expenses. Explores relationships between demographics, lifestyle factors, and healthcare spending.
+Analysis of healthcare cost factors and patterns to identify key drivers of medical expenses.
 
 ### Penguin Genetics Analysis
 Statistical analysis of penguin population genetics data to understand species characteristics and evolutionary patterns. Includes data visualization and hypothesis testing.
